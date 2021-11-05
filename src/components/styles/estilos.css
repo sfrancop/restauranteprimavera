@@ -1,0 +1,37 @@
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+.parrafo{
+    padding: 4%;
+    text-align: justify;
+}
+
+.parrafo img{
+ float: left;
+ margin-right: 50px;
+ margin-block-end: 5px;
+}
+
+.trabajadores{
+    background-color: #d5cace;
+}
+
+.texto{
+    padding: 2%;
+    width: 50%;
+    text-align: justify;
+}
+
+.formulario{
+    padding: 2%;
+    width: 50%;
+    position: relative;
+    bottom: 520px;
+    left: 50%;
+}
