@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/restauranteprimavera/static/css/main.4e1defb8.chunk.css",
+    "main.js": "/restauranteprimavera/static/js/main.0f66c4d1.chunk.js",
+    "main.js.map": "/restauranteprimavera/static/js/main.0f66c4d1.chunk.js.map",
+    "runtime-main.js": "/restauranteprimavera/static/js/runtime-main.8562fc43.js",
+    "runtime-main.js.map": "/restauranteprimavera/static/js/runtime-main.8562fc43.js.map",
+    "static/js/2.869a408c.chunk.js": "/restauranteprimavera/static/js/2.869a408c.chunk.js",
+    "static/js/2.869a408c.chunk.js.map": "/restauranteprimavera/static/js/2.869a408c.chunk.js.map",
+    "static/js/3.0c59c398.chunk.js": "/restauranteprimavera/static/js/3.0c59c398.chunk.js",
+    "static/js/3.0c59c398.chunk.js.map": "/restauranteprimavera/static/js/3.0c59c398.chunk.js.map",
+    "index.html": "/restauranteprimavera/index.html",
+    "static/css/main.4e1defb8.chunk.css.map": "/restauranteprimavera/static/css/main.4e1defb8.chunk.css.map",
+    "static/js/2.869a408c.chunk.js.LICENSE.txt": "/restauranteprimavera/static/js/2.869a408c.chunk.js.LICENSE.txt",
+    "static/media/foto4@2x.070b8097.png": "/restauranteprimavera/static/media/foto4@2x.070b8097.png",
+    "static/media/persona1.jpg.9a2866b3.png": "/restauranteprimavera/static/media/persona1.jpg.9a2866b3.png",
+    "static/media/persona2.88719fba.png": "/restauranteprimavera/static/media/persona2.88719fba.png",
+    "static/media/persona3.efe9f8cc.png": "/restauranteprimavera/static/media/persona3.efe9f8cc.png",
+    "static/media/persona4.670a4314.png": "/restauranteprimavera/static/media/persona4.670a4314.png",
+    "static/media/persona5.7d9d2667.png": "/restauranteprimavera/static/media/persona5.7d9d2667.png",
+    "static/media/persona6.aadaa578.png": "/restauranteprimavera/static/media/persona6.aadaa578.png",
+    "static/media/estilo.css": "/restauranteprimavera/static/media/plato1.9296b6e1.png",
+    "static/media/testimonio1.2c9ef9d5.png": "/restauranteprimavera/static/media/testimonio1.2c9ef9d5.png",
+    "static/media/testimonio2.867fe147.png": "/restauranteprimavera/static/media/testimonio2.867fe147.png",
+    "static/media/testimonio23png.c6e08b8e.png": "/restauranteprimavera/static/media/testimonio23png.c6e08b8e.png",
+    "static/media/testimonio4.ced7a1c5.png": "/restauranteprimavera/static/media/testimonio4.ced7a1c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8562fc43.js",
+    "static/js/2.869a408c.chunk.js",
+    "static/css/main.4e1defb8.chunk.css",
+    "static/js/main.0f66c4d1.chunk.js"
+  ]
+}
