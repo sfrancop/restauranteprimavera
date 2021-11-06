@@ -47,7 +47,7 @@ export const ContactUs = () => {
     <form class="formulario"  id="form" ref={form} onSubmit={sendEmail}>
                 <div class="form-group">
                     <select class="form-control" id="topic" name="topic" placeholder="Seleccione el servicio"
-                        name="servicio" onChange = {event => this.valueToState(event.target)}>
+                        name="servicio">
                         <option value="cumpleaños">Celebración de cumpleaños</option>
                         <option value="aniversarios">Aniversarios</option>
                         <option value="infantiles">Fiestas infantiles</option>
