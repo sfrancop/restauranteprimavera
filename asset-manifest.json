@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/restauranteprimavera/static/css/main.4e1defb8.chunk.css",
-    "main.js": "/restauranteprimavera/static/js/main.0f66c4d1.chunk.js",
-    "main.js.map": "/restauranteprimavera/static/js/main.0f66c4d1.chunk.js.map",
+    "main.css": "/restauranteprimavera/static/css/main.1053f0a8.chunk.css",
+    "main.js": "/restauranteprimavera/static/js/main.e958d779.chunk.js",
+    "main.js.map": "/restauranteprimavera/static/js/main.e958d779.chunk.js.map",
     "runtime-main.js": "/restauranteprimavera/static/js/runtime-main.8562fc43.js",
     "runtime-main.js.map": "/restauranteprimavera/static/js/runtime-main.8562fc43.js.map",
-    "static/js/2.869a408c.chunk.js": "/restauranteprimavera/static/js/2.869a408c.chunk.js",
-    "static/js/2.869a408c.chunk.js.map": "/restauranteprimavera/static/js/2.869a408c.chunk.js.map",
+    "static/js/2.7daeddcd.chunk.js": "/restauranteprimavera/static/js/2.7daeddcd.chunk.js",
+    "static/js/2.7daeddcd.chunk.js.map": "/restauranteprimavera/static/js/2.7daeddcd.chunk.js.map",
     "static/js/3.0c59c398.chunk.js": "/restauranteprimavera/static/js/3.0c59c398.chunk.js",
     "static/js/3.0c59c398.chunk.js.map": "/restauranteprimavera/static/js/3.0c59c398.chunk.js.map",
     "index.html": "/restauranteprimavera/index.html",
-    "static/css/main.4e1defb8.chunk.css.map": "/restauranteprimavera/static/css/main.4e1defb8.chunk.css.map",
-    "static/js/2.869a408c.chunk.js.LICENSE.txt": "/restauranteprimavera/static/js/2.869a408c.chunk.js.LICENSE.txt",
+    "static/css/main.1053f0a8.chunk.css.map": "/restauranteprimavera/static/css/main.1053f0a8.chunk.css.map",
+    "static/js/2.7daeddcd.chunk.js.LICENSE.txt": "/restauranteprimavera/static/js/2.7daeddcd.chunk.js.LICENSE.txt",
     "static/media/foto4@2x.070b8097.png": "/restauranteprimavera/static/media/foto4@2x.070b8097.png",
     "static/media/persona1.jpg.9a2866b3.png": "/restauranteprimavera/static/media/persona1.jpg.9a2866b3.png",
     "static/media/persona2.88719fba.png": "/restauranteprimavera/static/media/persona2.88719fba.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8562fc43.js",
-    "static/js/2.869a408c.chunk.js",
-    "static/css/main.4e1defb8.chunk.css",
-    "static/js/main.0f66c4d1.chunk.js"
+    "static/js/2.7daeddcd.chunk.js",
+    "static/css/main.1053f0a8.chunk.css",
+    "static/js/main.e958d779.chunk.js"
   ]
 }
