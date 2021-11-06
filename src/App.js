@@ -64,10 +64,10 @@ class App extends Component{
                     <Link to="/nosotros" class="nav-link text-light" aria-current="page" href="Nosotros.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosotros</Link>
                   </li>
                   <li class="nav-item">
-                  <a href="https://sfrancop.github.io/restprimavera/menú.html" class="nav-link text-light" aria-current="page">Menú</a>
+                  <a href="https://sfrancop.github.io/restprimavera/menú.html" class="nav-link text-light" aria-current="page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menú</a>
                   </li>
                   <li class="nav-item">
-                  <a href="https://sfrancop.github.io/restprimavera/Servicios.html" class="nav-link text-light" aria-current="page">Servicios</a>
+                  <a href="https://sfrancop.github.io/restprimavera/Servicios.html" class="nav-link text-light" aria-current="page">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicios</a>
                   </li>
                   <li class="nav-item">
                     <Link to="/contactanos" class="nav-link text-light" href="contactanos.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contáctanos</Link>
